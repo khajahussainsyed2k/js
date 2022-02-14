@@ -1,3 +1,4 @@
+//q1
 function function1(value){
     return 'hello '+value;
 }
