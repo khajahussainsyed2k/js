@@ -1,3 +1,4 @@
+//1.2
 const form=document.getElementById('signup');
 form.addEventListener('submit',(event)=>{
     var FName=document.getElementById('firstName').value;
